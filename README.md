@@ -1,7 +1,7 @@
 # Hello, I'm Enzan_umo!
 
 My most experienced programming language is `Python`,
-I'm currently learning `node.js` and `go`.
+I'm currently learning `go`.
 
 I'm on my way to junior full-stack engineer!
 
