@@ -1,17 +1,9 @@
-# Hello, I'm Enzan_umo!
+# I'm Enzan_umo, a translator.
 
-My most experienced programming language is `Python`,
-I'm currently learning `go`.
+I translate Japanese to Chinese, and also `human language` to `Python` code.
+Besides `Python`, I also have experience with `golang` and `react/ts`.
 
-I'm on my way to junior full-stack engineer!
-
-<!---
-- 👋 Hi, I’m @enzanumo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+I press `Alt+Shift+F` 10+ times a day.
 
 <!---
 enzanumo/enzanumo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
