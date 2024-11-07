@@ -1,11 +1,6 @@
-# I'm Enzan_umo, a translator.
+# Enzan_umo here.
 
-I translate Japanese to Chinese, and also `human language` to `Python` code.
-
-Besides `Python`, I also have experience with `golang` and `react/ts`.
-
-
-Trivia: I press `Alt+Shift+F` 10+ times a day.
+A full-stack web developer, familiar with python and React.
 
 <!---
 enzanumo/enzanumo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
